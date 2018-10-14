@@ -1,5 +1,4 @@
 ﻿#load "Utils.fsx"
-#load "..\packages\FsLab.0.3.10\FsLab.fsx"
 
 open System
 open Utils
