@@ -65,6 +65,8 @@
     <None Include="MultinomialLogisticRegression.fsx" />
     <None Include="KMeans.fsx" />
     <Content Include="Google.DataTable.Net.Wrapper.XML" />
+    <None Include="HyperbolicTangentNN.fsx" />
+    <None Include="Regression.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Accord">
