@@ -50,4 +50,5 @@ let geoData = Array.zip mapsData clusters
 Chart.Geo(geoData)
 |> Chart.WithOptions
     (Options(colorAxis=ColorAxis(colors = clusterColors)))
+|> Chart.Show
 
